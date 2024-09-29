@@ -1001,7 +1001,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 ## Even More Knowledge
 
 - ### Recursion
-    - [ ] Stanford lectures on recursion & backtracking:
+    - [x] Stanford lectures on recursion & backtracking:
         - [x] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
         - [x] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
         - [x] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
